@@ -1,0 +1,18 @@
+{
+  "name": "朱传明",
+  "englishName": "Chuanming Zhu",
+  "affiliation": "武汉大学",
+  "affiliationEn": "Wuhan University",
+  "email": "2971588323@qq.com",
+  "research": "Agent Memory",
+  "intro": "我来自武汉大学，研究方向是 Agent Memory。欢迎与我交流智能体记忆相关的想法与工作。",
+  "introEn": "I am affiliated with Wuhan University, and my research focuses on Agent Memory. I welcome conversations about memory for intelligent agents.",
+  "publications": [],
+  "projects": [],
+  "experience": [{
+    "title": "武汉大学", "titleEn": "Wuhan University",
+    "type": "教育与研究", "typeEn": "Education & Research",
+    "description": "研究方向：Agent Memory", "descriptionEn": "Research focus: Agent Memory", "date": ""
+  }],
+  "awards": []
+}
